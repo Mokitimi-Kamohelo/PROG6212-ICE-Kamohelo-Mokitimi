@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\PROG6212-ICE-Kamohelo-Mokitimi\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
       "projectName": "StudentLibrary",
-      "projectPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
+      "projectPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\PROG6212-ICE-Kamohelo-Mokitimi\\StudentLibrary\\StudentLibrary\\StudentLibrary.csproj",
       "packagesPath": "C:\\Users\\shots\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\obj\\",
+      "outputPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\PROG6212-ICE-Kamohelo-Mokitimi\\StudentLibrary\\StudentLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

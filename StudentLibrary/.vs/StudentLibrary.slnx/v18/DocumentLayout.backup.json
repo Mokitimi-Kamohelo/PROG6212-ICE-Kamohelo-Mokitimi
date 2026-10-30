@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice\\studentlibrary\\studentlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|solutionrelative:studentlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice\\studentlibrary\\studentlibrary\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|solutionrelative:studentlibrary\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice\\studentlibrary\\studentlibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|solutionrelative:studentlibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice\\studentlibrary\\studentlibrary\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|solutionrelative:studentlibrary\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice\\studentlibrary\\studentlibrary\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ABFEE6-4DEC-4CBF-947D-3520F62B64D1}|StudentLibrary\\StudentLibrary.csproj|solutionrelative:studentlibrary\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\Library.cs",
+              "RelativeDocumentMoniker": "StudentLibrary\\Library.cs",
+              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\Library.cs",
+              "RelativeToolTip": "StudentLibrary\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:02:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\Book.cs",
+              "RelativeDocumentMoniker": "StudentLibrary\\Book.cs",
+              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\Book.cs",
+              "RelativeToolTip": "StudentLibrary\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:01:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "StudentLibrary\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\StudentRecord.cs",
+              "RelativeToolTip": "StudentLibrary\\StudentRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:34:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\BookCategory.cs",
+              "RelativeDocumentMoniker": "StudentLibrary\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\BookCategory.cs",
+              "RelativeToolTip": "StudentLibrary\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:33:10.667Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "StudentLibrary\\Program.cs",
               "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE\\StudentLibrary\\StudentLibrary\\Program.cs",
               "RelativeToolTip": "StudentLibrary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T13:32:11.687Z",
               "EditorCaption": ""
